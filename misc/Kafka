@@ -1,0 +1,10 @@
+What is Kafka?
+Kafka is a distributed publish-subscribe messaging system that is designed to be fast, scalable, and durable.
+Kafka maintains feeds of messages in topics. Producers write data to topics and consumers read from topics. Since Kafka is a distributed system, topics are partitioned and replicated across multiple nodes.
+
+
+
+
+Link: https://kafka.apache.org/quickstart
+https://kafka.apache.org/documentation/
+https://anturis.com/blog/apache-kafka-an-essential-overview/
